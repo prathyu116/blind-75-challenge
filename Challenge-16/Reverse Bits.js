@@ -11,3 +11,4 @@ var reverseBits = function (n) {
     let ans = parseInt(reversedString, 2)
     return ans
 };
+console.log(reverseBits(43261596)) // 964176192
